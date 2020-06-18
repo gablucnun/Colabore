@@ -1,0 +1,2 @@
+<?php
+//Funções aqui
